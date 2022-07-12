@@ -1,0 +1,14 @@
+/* MIXIN */
+
+@mixin alignCenter {
+    text-align: center;
+}
+
+/* MAPS */
+
+$estilos: (
+    color: #000000,
+    font20: 20px,   
+    padd-bot5: 5px,
+    textcenter: center,
+);
